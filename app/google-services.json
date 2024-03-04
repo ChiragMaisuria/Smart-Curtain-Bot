@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210987477623",
+    "firebase_url": "https://smart-curtain-c6c74-default-rtdb.firebaseio.com",
+    "project_id": "smart-curtain-c6c74",
+    "storage_bucket": "smart-curtain-c6c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210987477623:android:580a338199b32b6edd3472",
+        "android_client_info": {
+          "package_name": "com.example.smartcurtain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210987477623-cqelfnio8kdt5paff4ld7kq95k7ju5t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1N_q0zMXSKmwColp5CjxCYgfI9Folis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210987477623-cqelfnio8kdt5paff4ld7kq95k7ju5t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

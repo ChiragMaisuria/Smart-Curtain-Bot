@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Curtain</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_mail_id">Enter your mail id</string>
+    <string name="enter_password">Enter password</string>
+</resources>
